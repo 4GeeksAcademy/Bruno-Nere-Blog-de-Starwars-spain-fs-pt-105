@@ -1,0 +1,11 @@
+.lead {
+  color: #ccc;
+}
+
+.card-title, .display-4 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.bg-dark {
+  background-color: #111 !important;
+}
